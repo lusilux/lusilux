@@ -5,25 +5,21 @@
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad. C, C++, Python, Javascript, HTML, and Shell are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
-* **I am interested in Web designing, Android development, and digital marketing**
+I am an undergraduate student in Industrial Informatics and Robotics Engineering. I am passionate about understanding how intelligent systems can be applied to cybersecurity, and I am currently working on a university project that combines multi-agent architectures with offensive and defensive cryptographic analysis.
+-🛠️ I work with a variety of programming languages, including: Python, C, C++, Shell (Bash), Ada, Assembly
 - 🌱 I’m currently learning ...
-  - Java
-  - React js
-- 👯 I’m looking forward to collaborate on open source projects.
-- ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
-- Outside tech, 📖 I love to read novels, 🖌️ do painting and skecthing, 🎵 listen to music, and 🌴 explore nature outdoors.
-- 📫 Reach out to me at: <a href="bhargavi.kurukunda@students.iiit.ac.in">bhargavi.kurukunda@students.iiit.ac.in</a>
+  - Cryptographic techniques and vulnerabilities
+  - SPADE and multi-agent architectures in Python
+  - FPGA fundamentals with ZYBO Z7
+- 🤝 I’m looking forward to collaborate on open source projects.
+- 📚 I have a deep interest in continuous learning and I'm constantly reading technical books and exploring new fields.
 
 __Check out my GitHub repository:__
 
 <div>
   <p>
-    <a href="https://github.com/Bhargavi-hash/HotelFranchiseDBMS.git">
+    <a href="https://github.com/lusilux/ROM.git">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhargavi-hash&repo=HotelFranchiseDBMS" alt="GitHub Stats" />
-    </a>
-    <a href="https://github.com/Bhargavi-hash/Linux-Shell-Implementation.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhargavi-hash&repo=Linux-Shell-Implementation" alt="GitHub Stats" />
     </a>
   </p>
 </div>
