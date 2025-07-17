@@ -18,7 +18,7 @@ __Check out my GitHub repository:__
 
 <div>
   <p>
-    <a href="https://github.com/lusilux/ROM.git">
+    <a href="https://github.com/lusilux/zybo-pmod-clp-driver.git">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=lusilux&repo=ROM" alt="GitHub Stats" />
     </a>
   </p>
