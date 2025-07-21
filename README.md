@@ -30,7 +30,7 @@ __Check out my GitHub repository:__
 <div>
   <p align="center">
     <b><em>GitHub Stats:</em></b> <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=lusilux" alt="GitHub Streak Stats" /> <br/><br/>
+    
   </p>
 </div>
 
